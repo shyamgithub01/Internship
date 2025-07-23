@@ -1,0 +1,1 @@
+Today I learned how to deploy a React frontend to Netlify/Vercel and explored the basics of CI/CD for automating build, test, and deployment workflows.
