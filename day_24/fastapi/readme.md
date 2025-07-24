@@ -1,0 +1,1 @@
+https://fastapi-project-industry-standards-9.onrender.com/docs present at this link
