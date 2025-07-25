@@ -5,7 +5,7 @@ export const login = async (username, password) => {
     username,
     password,
   });
-  return response.data.access_token; // Save this token
+  return response.data.access_token; 
 };
 
 const token = await login('your_username', 'your_password');

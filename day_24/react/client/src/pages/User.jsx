@@ -10,7 +10,7 @@ function Users() {
       .then(data => {
         console.log("User data:", data);
         if (Array.isArray(data)) {
-          setUsers(data); // ✅ should be an array if coming from PostgreSQL
+          setUsers(data); 
         } else {
           setError("Unexpected data format");
         }
